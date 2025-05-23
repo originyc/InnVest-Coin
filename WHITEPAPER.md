@@ -4,7 +4,7 @@
    - Acquire & renovate first Upstate NY motel  
    - Deploy token contract on Avalanche C-Chain (and reserve zero-mint contracts on Ethereum, Polygon, Arbitrum later)  
 2. **7–18 months:**  
-   - Open boutique “Getaway Inn” in Midtown Manhattan  
+   - Scout second location, open governance portal  
    - Execute first on-chain governance proposal  
 3. **19–36 months:**  
    - Expand to 2 regional motels in key vacation corridors  
